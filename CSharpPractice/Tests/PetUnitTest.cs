@@ -10,7 +10,7 @@ namespace CSharpTutorial
 
 {
     [TestClass()]
-    class PetUnitTest
+    public class PetUnitTest
     {
 
         // unit test code  
@@ -67,7 +67,7 @@ namespace CSharpTutorial
             }
         }
 
-        [TestMethod()]
+        
         public void testOutput(string bark00, Dog dog)
         {
             string currentConsoleOut = Console.Out.ToString();
