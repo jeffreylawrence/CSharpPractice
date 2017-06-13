@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpTutorial
 {
-    class Pet
+     public class Pet
     {
         protected string name;
         protected Person owner;

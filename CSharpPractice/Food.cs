@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpTutorial
 {
-    class Food
+    public class Food
     {
         private string name;
         private string foodGroup;

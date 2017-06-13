@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpTutorial
 {
-    class Person
+    public class Person
     {
         private string first_name;
         private string last_name;

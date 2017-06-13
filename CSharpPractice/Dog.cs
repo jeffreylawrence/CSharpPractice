@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpTutorial
 {
-    class Dog : Pet
+    public class Dog : Pet
     {
 
         public Dog(string name, Person owner, int age, int energyLevel)
